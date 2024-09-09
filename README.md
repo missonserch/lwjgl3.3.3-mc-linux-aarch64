@@ -8,5 +8,5 @@ It works with PolyMC, may work with other launchers, but I am not sure if that i
     After you have started your PolyMC instance:
 1.  Create an instance with your desired mc version (from 1.13 and up)
 2.  Right click on the instance icon and select 'Instance folder'
-3.  Create 'patches' directory and paste the 'org.lwjgl3.json' from the repository.
+3.  Create 'patches' directory and paste the 'org.lwjgl3.json' into that directory from the repository.
 4.  Done! Your instance is patched with linux aarch64 lwjgl 3 libraries, now the game should launch and work with mods and/or shaders, assuming you have appropriate java version installed to run the version of the game you chose. GLHF!
